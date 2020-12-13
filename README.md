@@ -4,9 +4,20 @@
 
 ***1. What variable(s) are considered the target(s) for your model?***
 
-y
+our target is column **IS_SUCCESSFUL**
 
 ***2. What variable(s) are considered to be the features for your model?***
+
+| APPLICATION_TYPE |
+|--- |
+|AFFILIATION               
+CLASSIFICATION 
+USE_CASE
+ORGANIZATION
+STATUS
+INCOME_AMT
+SPECIAL_CONSIDERATIONS 
+ASK_AMT 
 
 ***3. What variable(s) are neither targets nor features, and should be removed from the input data?***
 
