@@ -9,31 +9,17 @@ Our target is column **IS_SUCCESSFUL**
 ***2. What variable(s) are considered to be the features for your model?***
 
 **Initial model**
-| columns |
-|--- |
-APPLICATION_TYPE
-AFFILIATION               
-CLASSIFICATION 
-USE_CASE
-ORGANIZATION
-STATUS
-INCOME_AMT
-SPECIAL_CONSIDERATIONS 
-ASK_AMT 
+
+| APPLICATION_TYPE | AFFILIATION | CLASSIFICATION | USE_CASE | ORGANIZATION | STATUS | INCOME_AMT | SPECIAL_CONSIDERATIONS | ASK_AMT |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 **Optimized Model** - with the highest accuracy includes colum NAME
-| columns |
-|--- |
-NAME
-APPLICATION_TYPE
-AFFILIATION               
-CLASSIFICATION 
-USE_CASE
-ORGANIZATION
-STATUS
-INCOME_AMT
-SPECIAL_CONSIDERATIONS 
-ASK_AMT 
+
+| **NAME** | APPLICATION_TYPE | AFFILIATION | CLASSIFICATION | USE_CASE | ORGANIZATION | STATUS | INCOME_AMT | SPECIAL_CONSIDERATIONS | ASK_AMT |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+
+
 
 ***3. What variable(s) are neither targets nor features, and should be removed from the input data?***
 
