@@ -21,7 +21,7 @@ INCOME_AMT
 SPECIAL_CONSIDERATIONS 
 ASK_AMT 
 
-**Optimized Model** - with the highest accuracy
+**Optimized Model** - with the highest accuracy includes colum NAME
 | columns |
 |--- |
 NAME
@@ -36,6 +36,9 @@ SPECIAL_CONSIDERATIONS
 ASK_AMT 
 
 ***3. What variable(s) are neither targets nor features, and should be removed from the input data?***
+
+* Initial model - EIN and NAME
+* Optimized model - EIN only (after testing multiple scenarios (see image below)
 
 #### Compiling, Training, and Evaluating the Model
 
