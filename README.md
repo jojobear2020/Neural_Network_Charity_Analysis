@@ -4,7 +4,8 @@
 
 ***1. What variable(s) are considered the target(s) for your model?***
 
-y = will they
+y
+
 ***2. What variable(s) are considered to be the features for your model?***
 
 ***3. What variable(s) are neither targets nor features, and should be removed from the input data?***
