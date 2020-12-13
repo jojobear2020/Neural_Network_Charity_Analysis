@@ -8,9 +8,25 @@ our target is column **IS_SUCCESSFUL**
 
 ***2. What variable(s) are considered to be the features for your model?***
 
-| APPLICATION_TYPE |
+**Initial model**
+| columns |
 |--- |
-|AFFILIATION               
+APPLICATION_TYPE
+AFFILIATION               
+CLASSIFICATION 
+USE_CASE
+ORGANIZATION
+STATUS
+INCOME_AMT
+SPECIAL_CONSIDERATIONS 
+ASK_AMT 
+
+**Optimized Model** - with the highest accuracy
+| columns |
+|--- |
+NAME
+APPLICATION_TYPE
+AFFILIATION               
 CLASSIFICATION 
 USE_CASE
 ORGANIZATION
