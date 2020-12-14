@@ -6,7 +6,7 @@ Using knowledge of machine learning and neural networks, we had to use the featu
 
 -----------------
 
-## Questions to Answer:
+## Questions to Answer and Results:
 
 *1. What variable(s) are considered the target(s) for your model?*
 
@@ -58,3 +58,7 @@ Yes (see table below that shows attempts and results). All attempts are also sav
 
 
 ![](https://github.com/jojobear2020/Neural_Network_Charity_Analysis/blob/main/Images/best_result.PNG)
+
+---------------------------
+
+## Summary
