@@ -1,5 +1,12 @@
 # Neural_Network_Charity_Analysis
 
+## Analysis Purpose:
+
+Using knowledge of machine learning and neural networks, we had to use the features in the provided ![dataset](https://raw.githubusercontent.com/jojobear2020/Neural_Network_Charity_Analysis/main/Resources/charity_data.csv) to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+
+-----------------
+
+## Questions to Answer:
 
 *1. What variable(s) are considered the target(s) for your model?*
 
