@@ -20,6 +20,13 @@ ____________________________
 | APPLICATION_TYPE | AFFILIATION | CLASSIFICATION | USE_CASE | ORGANIZATION | STATUS | INCOME_AMT | SPECIAL_CONSIDERATIONS | ASK_AMT |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+|
+| --- |
+ APPLICATION_TYPE
+ AFFILIATION 
+ CLASSIFICATION
+ USE_CASE | ORGANIZATION | STATUS | INCOME_AMT | SPECIAL_CONSIDERATIONS | ASK_AMT |
+
 **Optimized Model** - varies (see image on the bottom), but the one with the highest accuracy includes colum all columns and excluded only **EIN**
 
 | **NAME** | APPLICATION_TYPE | AFFILIATION | CLASSIFICATION | USE_CASE | ORGANIZATION | STATUS | INCOME_AMT | SPECIAL_CONSIDERATIONS | ASK_AMT |
