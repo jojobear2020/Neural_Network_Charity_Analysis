@@ -86,13 +86,13 @@ Yes (see table below that shows attempts and results). All attempts are also sav
 
 ## Summary
 
-* While I was able to achieve accuracy at over 75%, it took multiple attempts and combinations to do so. From my experience, column **NAME** is extremely important for the model accuracy. Only after I re-evaluated the dataset and kept that column (plus use the binning method), my accuracy increased to higher levels (see table above).
+* While I was able to achieve accuracy at over 75%, it took multiple attempts and combinations to do so. From my experience, column **NAME** is extremely important for the model accuracy. Only after I re-evaluated the dataset and kept the column (plus used the binning method), my accuracy increased to higher levels (see table above).
 
 * There are multiple variations how to keep the accuracy above the 75% mark, however the highest for me was to drop only column EIN, adding 3 layers with 100-40-10 nodes while using `sigmoid` for acivaton and epochs at 100.
 
 * I would recommend to use a simpler model like Logistical Regression. Another alternative is Random Forest model, which is easier to utilize for smaller datasets and that produces high accuracy results.
 
-* Another recommandation would be to use a larger dataset.
+* Another suggestion would be to use a larger dataset.
 
 
 
