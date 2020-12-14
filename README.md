@@ -31,13 +31,23 @@ _____________________
 
 *4. How many neurons, layers, and activation functions did you select for your neural network model, and why?*
 
-It varied. The best and most accuarte was with three layers and 100-40-10 neurons
+It varied. The best and most accuarte was with three layers and 100-40-10 neurons.
+
+--------------------
 
 *5. Were you able to achieve the target model performance?*
 
-Yes (see table below that shows attempts and results). All twenty files are saved in folder Optimization
+Yes (see table below that shows attempts and results). All attempts are also saved in folder called ![Optimization](https://github.com/jojobear2020/Neural_Network_Charity_Analysis/tree/main/Optimization).
+
+-----------------------
 
 *6. What steps did you take to try and increase model performance?*
+
+* keep the column **NAME** - this seems to be the most important in increasing model accuracy
+* switching layesr to `sigmoid`
+* having 3 layers
+* keeping epochs number at 100
+
 
 
 ![](https://github.com/jojobear2020/Neural_Network_Charity_Analysis/blob/main/Images/best_result.PNG)
