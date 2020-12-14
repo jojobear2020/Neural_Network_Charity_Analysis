@@ -2,7 +2,7 @@
 
 ## Analysis Purpose:
 
-Using knowledge of machine learning and neural networks, we had to use the features in the provided ![dataset](https://raw.githubusercontent.com/jojobear2020/Neural_Network_Charity_Analysis/main/Resources/charity_data.csv) to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+Using knowledge of machine learning and neural networks, we had to use the features in the provided [dataset](https://raw.githubusercontent.com/jojobear2020/Neural_Network_Charity_Analysis/main/Resources/charity_data.csv) to help create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 -----------------
 
@@ -44,7 +44,7 @@ It varied. The best and most accuarte was with three layers and 100-40-10 neuron
 
 *5. Were you able to achieve the target model performance?*
 
-Yes (see table below that shows attempts and results). All attempts are also saved in folder called ![Optimization](https://github.com/jojobear2020/Neural_Network_Charity_Analysis/tree/main/Optimization).
+Yes (see table below that shows attempts and results). All attempts are also saved in folder called [Optimization](https://github.com/jojobear2020/Neural_Network_Charity_Analysis/tree/main/Optimization).
 
 -----------------------
 
