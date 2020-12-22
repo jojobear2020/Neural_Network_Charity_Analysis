@@ -6,7 +6,7 @@ Using knowledge of machine learning and neural networks, we had to use the featu
 
 -----------------
 
-## Questions to Answer and Results:
+## Q&A and Results:
 
 *1. What variable(s) are considered the target(s) for your model?*
 
